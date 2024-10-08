@@ -8,6 +8,11 @@ Przed konsultacjami proszę o kontakt mailowy w celu zasygnalizowania obecności
 
 # Tematy notebooków 
 (mogą ulec zmianie)
-1. Wstęp do numpy.
 
+1a. Wektoryzacja w numpy.  
+1b. Funkcje kosztu.  
+1c. Feature engineering na przykładzie regresji liniowej.  
+2a. Gradienty na przykładzie regresji logistycznej.  
+2b. Sieci neuronowe.  
+2c. Optymalizatory.  
 
