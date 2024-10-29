@@ -15,4 +15,5 @@ Przed konsultacjami proszę o kontakt mailowy w celu zasygnalizowania obecności
 2a. Gradienty na przykładzie regresji logistycznej.  
 2b. Sieci neuronowe.  
 2c. Optymalizatory.  
-2d. Regularyzacja.  
+2d. Regularyzacja.
+3 . Sieci konwolucyjne
