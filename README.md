@@ -18,3 +18,5 @@ Przed konsultacjami proszę o kontakt mailowy w celu zasygnalizowania obecności
 2d. Regularyzacja.  
 3\. Sieci konwolucyjne  
 4\. Auoenkodery
+5\. Modele dyfuzyjne
+6\. Modele rekurencyjne
